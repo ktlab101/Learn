@@ -98,3 +98,5 @@ links: [
         href: "https://github.com/ktlab101"
     }
  ]
+
+theme: jekyll-theme-merlot
